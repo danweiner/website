@@ -11,6 +11,10 @@ contributions:
       name: "Spongman"
     url: "https://codepen.io/Spongman/full/djyxvo/"
     source: "https://codepen.io/Spongman/pen/djyxvo?editors=0010"
+ - title: "Star Wars using the p5.js web editor!"
+   author:
+      name: "danweiner"
+   url:  "https://editor.p5js.org/danielweiner/full/SJjg5yPJV"
 
 videos:
   - title: "Coding Challenge #1: Starfield in Processing"
